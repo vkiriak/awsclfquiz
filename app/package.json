@@ -11,7 +11,8 @@
     "deploy-gh": "gh-pages -d out",
     "deploy-vercel": "vercel --prod",
     "cypress:open": "cypress open",
-    "cypress:run": "cypress run"
+    "cypress:run": "cypress run",
+    "test": "cypress run"
   },
   "dependencies": {
     "cypress": "^14.2.0",
