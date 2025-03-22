@@ -55,8 +55,6 @@ export default function LandingPage() {
             >
               <Link
                 href={`/quiz/${exam}`}
-                //className="block p-4 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600 transition-colors"
-                //className="block p-4 bg-gray-900 text-white rounded-lg border border-blue-500 shadow-[0_0_10px_rgba(59,130,246,0.5)] hover:shadow-[0_0_15px_rgba(59,130,246,0.7)] transition-shadow"
                 className="block p-4 bg-blue-600 text-white rounded-md shadow-md hover:bg-blue-700 hover:shadow-lg transition-all"
 >
                 {exam.replace('practice-exam-', 'Exam ')}
