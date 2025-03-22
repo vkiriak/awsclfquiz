@@ -83,6 +83,7 @@ export default function QuizPage() {
   const submitQuiz = () => {
     const results: QuizResult[] = questions.map(q => ({
       questionNumber: q.number,
+      questionOptions: q.options,
       userAnswer: (answers[q.number] || []).join(', ') || 'Not answered',
       correctAnswer: q.correctAnswer,
       isCorrect: answers[q.number]?.length === 1 && answers[q.number][0] === q.correctAnswer
@@ -126,6 +127,13 @@ export default function QuizPage() {
             className="mb-4 p-2 border rounded"
           >
             <p>Question {result.questionNumber}: {questions.find(q => q.number === result.questionNumber)?.text}</p>
+            <div className="space-y-2">
+              <ul style={{ padding: '10px'}}>
+                {result.questionOptions.map((item, index) => (
+                <li key={index}>{item}</li>
+                ))}
+              </ul>
+            </div>
             <p>Your Answer: {result.userAnswer}</p>
             <p>Correct Answer: {result.correctAnswer}</p>
           </motion.div>

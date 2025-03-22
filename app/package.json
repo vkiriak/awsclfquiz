@@ -9,9 +9,12 @@
     "lint": "next lint",
     "clean": "rm -rf .next out",
     "deploy-gh": "gh-pages -d out",
-    "deploy-vercel": "vercel --prod"
+    "deploy-vercel": "vercel --prod",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
   },
   "dependencies": {
+    "cypress": "^14.2.0",
     "framer-motion": "^12.5.0",
     "next": "15.2.3",
     "react": "^19.0.0",

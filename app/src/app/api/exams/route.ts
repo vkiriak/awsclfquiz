@@ -11,7 +11,7 @@ export async function GET() {
 
     const files = fs.readdirSync(examsDir);
     const examFiles = files
-      .filter(file => file.startsWith('practice'))
+      .filter(file => file.startsWith('practice-exam'))
       .filter(file => file.endsWith('.json'))
       .map(file => {
         const id = file.replace('.json', '');
@@ -26,7 +26,6 @@ export async function GET() {
       })
       // Sort by the numeric value
       .sort((a, b) => a.number - b.number)
-      // Remove the temporary number field
       .map(({ displayName }) => displayName);
 
     if (examFiles.length === 0) {

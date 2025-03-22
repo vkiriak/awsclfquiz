@@ -7,6 +7,7 @@ export interface Question {
   
   export interface QuizResult {
     questionNumber: number;
+    questionOptions: string[];
     userAnswer: string;
     correctAnswer: string;
     isCorrect: boolean;

@@ -1,0 +1,15 @@
+[
+    {
+        "number": 1,
+        "question": "AWS allows users to manage their resources using a web based user interface. What is the name of this interface?",
+        "options": {
+            "A": "AWS CLI.",
+            "B": "AWS API.",
+            "C": "AWS SDK.",
+            "D": "AWS Management Console."
+        },
+        "correct_answer": "D",
+        "explanation": "",
+        "reference": ""
+    }
+]
