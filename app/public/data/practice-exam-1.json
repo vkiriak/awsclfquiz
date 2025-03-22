@@ -48,7 +48,7 @@
             "D": "Providing compensation to customers if issues occur.",
             "E": "Ability to recover quickly from failures."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -101,7 +101,7 @@
             "D": "An Exabyte-scale data transfer service that allows you to move extremely large amounts of data to AWS.",
             "E": "Secure transfer of large amounts of data into and out of the AWS."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -180,7 +180,7 @@
             "D": "Operating applications on behalf of customers.",
             "E": "All of the physical security and most of the data/network security are taken care of for you."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -233,7 +233,7 @@
             "D": "Store a backup daily in an external drive.",
             "E": "Prevent any unauthorized access to AWS data centers."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -260,7 +260,7 @@
             "D": "Configure AWS CloudTrail to automatically delete all AWS resources when the threshold is exceeded.",
             "E": "Configure the Amazon Connect Service to alert the company when the threshold is exceeded."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -339,7 +339,7 @@
             "D": "AWS WAF.",
             "E": "AWS KMS."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -418,7 +418,7 @@
             "D": "AWS IAM.",
             "E": "Amazon Elastic Compute Cloud."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -497,7 +497,7 @@
             "D": "Configuration Management.",
             "E": "Data Center operations."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -511,7 +511,7 @@
             "D": "ECR.",
             "E": "Amazon EC2."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, B",
         "explanation": "",
         "reference": ""
     },
@@ -577,7 +577,7 @@
             "D": "A dashboard detailing vulnerabilities in your applications.",
             "E": "Personalized view of AWS service health."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -617,7 +617,7 @@
             "D": "Amazon S3 can be scaled manually to store and retrieve any amount of data from anywhere.",
             "E": "Amazon S3 provides 99.999999999% (11 9\u2019s) of data durability."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },
@@ -631,7 +631,7 @@
             "D": "Setting password complexity rules.",
             "E": "Configuring network access rules."
         },
-        "correct_answer": "D",
+        "correct_answer": "D, E",
         "explanation": "",
         "reference": ""
     },

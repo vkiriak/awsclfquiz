@@ -35,7 +35,7 @@
             "D": "Unlimited storage.",
             "E": "Load balancing."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -75,7 +75,7 @@
             "D": "AWS Network Access Control Lists.",
             "E": "AWS CodeCommit."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -89,7 +89,7 @@
             "D": "IAM Users.",
             "E": "AWS Organizations."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, D",
         "explanation": "",
         "reference": ""
     },
@@ -194,7 +194,7 @@
             "D": "The planned number of VPCs.",
             "E": "Geographic proximity to the company's location."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -247,7 +247,7 @@
             "D": "Patch management of the underlying infrastructure.",
             "E": "File system encryption."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -287,7 +287,7 @@
             "D": "Number of Hosted Zones.",
             "E": "Number of instances."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },
@@ -392,7 +392,7 @@
             "D": "Software architecture.",
             "E": "Software compatibility."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, B",
         "explanation": "",
         "reference": ""
     },
@@ -419,7 +419,7 @@
             "D": "Amazon EMR.",
             "E": "Amazon RDS."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -550,7 +550,7 @@
             "D": "Amazon SNS.",
             "E": "Amazon Virtual Private Cloud."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -590,7 +590,7 @@
             "D": "Open an investigation and delete any potentially compromised IAM users.",
             "E": "Change your AWS root account password and the passwords of any IAM users."
         },
-        "correct_answer": "D",
+        "correct_answer": "D, E",
         "explanation": "",
         "reference": ""
     },
@@ -643,7 +643,7 @@
             "D": "Lambda doesn\u2019t support programming languages; it is a serverless compute service.",
             "E": "Lambda can support any programming language using an API."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -657,7 +657,7 @@
             "D": "Deploys applications to Amazon EC2 instances.",
             "E": "Deploys applications to on-premises servers."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     }

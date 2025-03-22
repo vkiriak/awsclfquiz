@@ -87,7 +87,7 @@
             "D": "Rotate access keys on a regular basis",
             "E": "Avoid using IAM roles to delegate permissions"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "<https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>",
         "reference": ""
     },
@@ -127,7 +127,7 @@
             "D": "Use AWS Certificate Manager to whitelist approved AWS resources and services",
             "E": "Use Amazon GuardDuty to validate configuration changes made to AWS resources"
         },
-        "correct_answer": "Ac",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },
@@ -167,7 +167,7 @@
             "D": "AWS Database Migration Service (AWS DMS)",
             "E": "Amazon API Gateway"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/snowball/>",
         "reference": ""
     },
@@ -311,7 +311,7 @@
             "D": "Networking infrastructure protection",
             "E": "Security groups configuration"
         },
-        "correct_answer": "CE",
+        "correct_answer": "C",
         "explanation": "<https://cloudacademy.com/blog/aws-shared-responsibility-model-security/>",
         "reference": ""
     },
@@ -338,7 +338,7 @@
             "D": "AWS Organizations",
             "E": "Network ACLs"
         },
-        "correct_answer": "AE",
+        "correct_answer": "A",
         "explanation": "- <https://aws.amazon.com/waf/>\n    - <https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html>",
         "reference": ""
     },
@@ -365,7 +365,7 @@
             "D": "Encrypting communication between the EC2 instances and the Elastic Load Balancer",
             "E": "Configuring a security group and a network access control list (NACL) for EC2"
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "",
         "reference": ""
     },
@@ -457,7 +457,7 @@
             "D": "Amazon Route 53",
             "E": "Amazon Redshift"
         },
-        "correct_answer": "AB",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/autoscaling/faqs/>",
         "reference": ""
     },
@@ -471,7 +471,7 @@
             "D": "Decreased latency to reach applications deployed on AWS",
             "E": "Higher security of data stored on AWS"
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/global-accelerator/faqs/>",
         "reference": ""
     },
@@ -537,7 +537,7 @@
             "D": "Switch automatically to Reserved Instances or Spot Instances, whichever is most cost-effective.",
             "E": "Move data stored in Amazon S3 to a more cost-effective storage class."
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "",
         "reference": ""
     },

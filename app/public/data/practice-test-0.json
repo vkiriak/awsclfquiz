@@ -11,5 +11,19 @@
         "correct_answer": "D",
         "explanation": "",
         "reference": ""
+    },
+    {
+        "number": 2,
+        "question": "Which of the below options are related to the reliability of AWS? (Choose TWO)",
+        "options": {
+            "A": "Applying the principle of least privilege to all AWS resources.",
+            "B": "Automatically provisioning new resources to meet demand.",
+            "C": "All AWS services are considered Global Services, and this design helps customers serve their international users.",
+            "D": "Providing compensation to customers if issues occur.",
+            "E": "Ability to recover quickly from failures."
+        },
+        "correct_answer": "B, E",
+        "explanation": "",
+        "reference": ""
     }
 ]

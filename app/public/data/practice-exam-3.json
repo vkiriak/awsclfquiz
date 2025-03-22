@@ -9,7 +9,7 @@
             "D": "Amazon ECS.",
             "E": "Amazon EMR."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -88,7 +88,7 @@
             "D": "Amazon EBS.",
             "E": "Amazon DynamoDB."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -102,7 +102,7 @@
             "D": "Read Replicas.",
             "E": "Edge Locations."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },
@@ -181,7 +181,7 @@
             "D": "Active databases.",
             "E": "Cached data."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -221,7 +221,7 @@
             "D": "Environmental controls.",
             "E": "Physical controls."
         },
-        "correct_answer": "D",
+        "correct_answer": "D, E",
         "explanation": "",
         "reference": ""
     },
@@ -261,7 +261,7 @@
             "D": "Amazon EC2.",
             "E": "AWS Lambda."
         },
-        "correct_answer": "D",
+        "correct_answer": "D, E",
         "explanation": "",
         "reference": ""
     },
@@ -288,7 +288,7 @@
             "D": "You can use the AWS Trusted Advisor to monitor your service limits.",
             "E": "The Amazon Simple Email Service is responsible for sending email notifications when usage approaches a service limit."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -315,7 +315,7 @@
             "D": "AWS CloudTrail.",
             "E": "AWS VPN."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -355,7 +355,7 @@
             "D": "AWS IAM.",
             "E": "Network Access Control Lists (Network ACLs)."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -408,7 +408,7 @@
             "D": "Number of buckets.",
             "E": "Number of private IPs."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, B",
         "explanation": "",
         "reference": ""
     },
@@ -461,7 +461,7 @@
             "D": "Scales automatically to larger or smaller instance types.",
             "E": "Supports the document and key-value data structure."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -501,7 +501,7 @@
             "D": "IAM Policies.",
             "E": "Security Groups."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -567,7 +567,7 @@
             "D": "AWS Elastic Beanstalk.",
             "E": "Amazon Macie."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -607,7 +607,7 @@
             "D": "Reserved instances provide a significant discount compared to on-demand instances.",
             "E": "Reserved instances are best suited for periodic workloads."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },

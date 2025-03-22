@@ -22,7 +22,7 @@
             "D": "AWS CloudHSM",
             "E": "Amazon CloudWatch"
         },
-        "correct_answer": "CE",
+        "correct_answer": "C",
         "explanation": "- AWS offers a solution that uses AWS CloudTrail to log account activity, Amazon Kinesis to compute and stream metrics in real-time, and Amazon DynamoDB to durably store the computed data.\n      - Metrics are calculated for create, modify, and delete API calls for more than 60 supported AWS services.\n      - The solution also features a dashboard that visualizes your account activity in real-time.",
         "reference": "https://aws.amazon.com/solutions/real-time-insights-account-activity/"
     },
@@ -36,7 +36,7 @@
             "D": "Creating database schema",
             "E": "Running penetration tests"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },
@@ -115,7 +115,7 @@
             "D": "Reducing traffic on the server by caching responses",
             "E": "Sending notification messages to end users"
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "- CloudFront delivers your content through a worldwide network of data centers called edge locations.\n    When a user requests content that you're serving with CloudFront, the user is routed to the edge location that provides the lowest latency (time delay), so that content is delivered with the best possible performance.",
         "reference": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html"
     },
@@ -233,7 +233,7 @@
             "D": "Reducing traffic on the server by caching responses",
             "E": "Sending notification messages to end users"
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "- CloudFront delivers your content through a worldwide network of data centers called edge locations.\n    - When a user requests content that you're serving with CloudFront, the user is routed to the edge location that provides the lowest latency (time delay), so that content is delivered with the best possible performance.",
         "reference": "https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html"
     },
@@ -260,7 +260,7 @@
             "D": "Amazon CloudFront",
             "E": "Amazon DynamoDB"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "<http://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/>",
         "reference": ""
     },
@@ -287,7 +287,7 @@
             "D": "Ensuring that access to data centers is restricted",
             "E": "Ensuring that hardware is disposed of properly"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/compliance/shared-responsibility-model/>",
         "reference": ""
     },
@@ -327,7 +327,7 @@
             "D": "deferred payment plans for startups.",
             "E": "business credit lines for stratups."
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },
@@ -353,7 +353,7 @@
             "C": "API Gateway",
             "D": "Amazon Direct Connect"
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "- AWS Direct Connect enables you to securely connect your AWS environment to your on-premises data center or office location over a standard 1 gigabit or 10 gigabit Ethernet fiber-optic connection.\n    - AWS Direct Connect offers dedicated high speed, low latency connection, which bypasses internet service providers in your\n    network path.\n    - An AWS Direct Connect location provides access to Amazon Web Services in the region it is associated with, as well as access to other US regions.\n    - AWS Direct Connect allows you to logically partition the fiber-optic connections into multiple logical connections called Virtual Local Area Networks (VLAN).\n    - You can take advantage of these logical connections to improve security, differentiate traffic, and achieve compliance requirements.",
         "reference": "https://aws.amazon.com/getting-started/projects/connect-data-center-to-aws/"
     },
@@ -393,7 +393,7 @@
             "D": "Performance",
             "E": "Storage Capacity"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "- Like your customized cloud expert, AWS Trusted Advisor analyzes your AWS environment and provides best practice recommendations in five categories: cost optimization, performance, security, fault tolerance and service limits.",
         "reference": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/"
     },
@@ -485,7 +485,7 @@
             "D": "Colocation",
             "E": "Capital expenses"
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "- The most celebrated benefit of AWS cloud is elasticity since you can expand the services when you experience more traffic.\n    - Agile developments in AWS Cloud through strategies are day by day becoming more established within the enterprises across the world.\n    - With so much improvement and call for optimization in the cloud, it is necessary that these strategies get established from the ground up within the organizations.\n    - It is highly important as already enterprises have a lot of bequest, politics and hierarchies which act as barriers in their businesses.",
         "reference": "https://www.botmetric.com/blog/evolution-agile-enterprises-aws-cloud/"
     },
@@ -525,7 +525,7 @@
             "D": "It ensures the use of compliance frameworks that are being used by other cloud providers.",
             "E": "It will adopt new compliance frameworks as they become relevant to customer workloads."
         },
-        "correct_answer": "AB",
+        "correct_answer": "A",
         "explanation": "<https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf>",
         "reference": ""
     },
@@ -565,7 +565,7 @@
             "D": "Physical servers",
             "E": "Antivirus software license"
         },
-        "correct_answer": "CD",
+        "correct_answer": "C",
         "explanation": "<https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/>",
         "reference": ""
     },
@@ -579,7 +579,7 @@
             "D": "Replacing failed hard disk drives.",
             "E": "Deploying hardware in different Availability Zones."
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "- The hardware related jobs is the prime responsibility of AWS. VPC network access control lists is something a customer has to do himself to secure the applications.\n    - Encrypting data in transit and at rest is a shared responsibility in which AWS plays a part.\n    - All hardware related jobs have nothing to do with the customer.",
         "reference": "https://dzone.com/articles/aws-shared-responsibility-model-cloud-security"
     },
@@ -593,7 +593,7 @@
             "D": "Using AWS compliance documents to accelerate the compliance process.",
             "E": "Having the ability to create and govern environments using code."
         },
-        "correct_answer": "AB",
+        "correct_answer": "A",
         "explanation": "<https://wa.aws.amazon.com/wat.concept.elasticity.en.html>",
         "reference": ""
     },
@@ -620,7 +620,7 @@
             "D": "Application developer time",
             "E": "Database engine capacity"
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "",
         "reference": ""
     },

@@ -35,7 +35,7 @@
             "D": "AWS Partner Network (APN).",
             "E": "AWS Secrets Manager."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },
@@ -62,7 +62,7 @@
             "D": "Software-as-a-service.",
             "E": "Hybrid."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -141,7 +141,7 @@
             "D": "AWS can easily accommodate application demand changes.",
             "E": "AWS takes care of application security patching."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, D",
         "explanation": "",
         "reference": ""
     },
@@ -168,7 +168,7 @@
             "D": "Using Multi-Factor Authentication (MFA).",
             "E": "Enforcing password strength and expiration."
         },
-        "correct_answer": "D",
+        "correct_answer": "D, E",
         "explanation": "",
         "reference": ""
     },
@@ -234,7 +234,7 @@
             "D": "Connect the company\u2019s on-premises data center to AWS using AWS Direct Connect",
             "E": "Leverage Amazon CloudFront to restrict access to static web content provided through the company\u2019s on-premises web servers"
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },
@@ -261,7 +261,7 @@
             "D": "Automated penetration testing.",
             "E": "Amazon S3 copyrighted content detection."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -275,7 +275,7 @@
             "D": "Amazon CloudFront.",
             "E": "Amazon Inspector."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -432,7 +432,7 @@
             "D": "Physical security of data centers.",
             "E": "Configuration of the security group."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -459,7 +459,7 @@
             "D": "AWS Storage Gateway.",
             "E": "Amazon Connect."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },
@@ -473,7 +473,7 @@
             "D": "Increased upfront capital expenditure.",
             "E": "Physical access to cloud data centers."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -500,7 +500,7 @@
             "D": "AWS Batch.",
             "E": "AWS X-Ray."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -540,7 +540,7 @@
             "D": "Potential volume discounts, as usage in all accounts is combined.",
             "E": "The automatic extension of the master account\u2019s AWS support plan to all accounts."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },

@@ -126,7 +126,7 @@
             "D": "AWS Server Migration Service (AWS SMS) to move Amazon EC2 instances into a different Region",
             "E": "Distributed resources across multiple AWS points of presence"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "<https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>",
         "reference": ""
     },
@@ -153,7 +153,7 @@
             "D": "Require IAM users to store their passwords in raw text",
             "E": "Disable multi-factor authentication (MFA) for IAM users"
         },
-        "correct_answer": "AB",
+        "correct_answer": "A",
         "explanation": "<https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>",
         "reference": ""
     },
@@ -167,7 +167,7 @@
             "D": "Select a partner from the AWS Partner Network (APN) to assist with the migration",
             "E": "Use Amazon Connect to create a new request for proposal (RFP) for expert assistance in migrating to the AWS Cloud."
         },
-        "correct_answer": "CD",
+        "correct_answer": "C",
         "explanation": "<https://aws.amazon.com/solutions/aws-landing-zone/>",
         "reference": ""
     },
@@ -259,7 +259,7 @@
             "D": "Amazon CloudFront",
             "E": "AWS Lambda"
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/cloudfront/faqs/>",
         "reference": ""
     },
@@ -286,7 +286,7 @@
             "D": "Internet gateways",
             "E": "Access key"
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "<https://subscription.packtpub.com/book/virtualization_and_cloud/9781788293723/3/ch03lvl1sec26/vpc-components>",
         "reference": ""
     },
@@ -313,7 +313,7 @@
             "D": "Security groups",
             "E": "Password policies"
         },
-        "correct_answer": "CE",
+        "correct_answer": "C",
         "explanation": "<https://aws.amazon.com/blogs/security/guidelines-for-protecting-your-aws-account-while-using-programmatic-access/>",
         "reference": ""
     },
@@ -327,7 +327,7 @@
             "D": "Available software patches",
             "E": "Number of users in the account"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/>",
         "reference": ""
     },
@@ -354,7 +354,7 @@
             "D": "It automatically corrects potential security issues caused by permissions settings on account resources",
             "E": "It provides proactive alerting whenever an Amazon EC2 instance has been compromised"
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "",
         "reference": ""
     },
@@ -368,7 +368,7 @@
             "D": "AWS manages the development of applications on AWS",
             "E": "AWS manages cost planning for virtual servers"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/compliance/data-center/controls/>",
         "reference": ""
     },
@@ -395,7 +395,7 @@
             "D": "AWS Direct Connect",
             "E": "AWS Managed Services"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "- <https://aws.amazon.com/directconnect/>\n    - <https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-client-vpn-to-securely-access-aws-and-on-premises-resources/>",
         "reference": ""
     },
@@ -513,7 +513,7 @@
             "D": "AWS Secrets Manager",
             "E": "AWS CloudHSM"
         },
-        "correct_answer": "CE",
+        "correct_answer": "C",
         "explanation": "- <https://docs.aws.amazon.com/crypto/latest/userguide/awscryp-service-hsm.html>\n    - <https://docs.aws.amazon.com/kms/latest/developerguide/overview.html>",
         "reference": ""
     },
@@ -540,7 +540,7 @@
             "D": "AWS Partner Network (APN)",
             "E": "AWS Secrets Manager"
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "",
         "reference": ""
     },
@@ -567,7 +567,7 @@
             "D": "Controlling physical access to data centers",
             "E": "Patch management of an Amazon EC2 instance operating system"
         },
-        "correct_answer": "BE",
+        "correct_answer": "B",
         "explanation": "<https://www.whizlabs.com/blog/aws-security-shared-responsibility/>",
         "reference": ""
     },
@@ -646,7 +646,7 @@
             "D": "Billing alerts and Amazon CloudWatch alarms",
             "E": "AWS Price List API"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "<https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html>",
         "reference": ""
     },

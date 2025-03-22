@@ -35,7 +35,7 @@
             "D": "Implementing consolidated billing",
             "E": "Enforcing the governance of AWS accounts"
         },
-        "correct_answer": "DE",
+        "correct_answer": "D",
         "explanation": "<https://aws.amazon.com/organizations/>",
         "reference": ""
     },
@@ -88,7 +88,7 @@
             "D": "AWS VPN",
             "E": "Amazon Connect"
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/directconnect/faqs/>",
         "reference": ""
     },
@@ -102,7 +102,7 @@
             "D": "Physical security of data center facilities",
             "E": "Compute capacity availability"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/compliance/shared-responsibility-model/>",
         "reference": ""
     },
@@ -298,7 +298,7 @@
             "D": "AWS OpsWorks",
             "E": "Amazon QuickSight"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "<https://blog.newrelic.com/engineering/best-cloud-infrastructure-automation-tools/>",
         "reference": ""
     },
@@ -351,7 +351,7 @@
             "D": "A user ID",
             "E": "A secondary key"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "<https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html>",
         "reference": ""
     },
@@ -365,7 +365,7 @@
             "D": "AWS Batch",
             "E": "Amazon Inspector"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "<https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html>",
         "reference": ""
     },
@@ -522,7 +522,7 @@
             "D": "Security of data in transit",
             "E": "Data integrity authentication"
         },
-        "correct_answer": "DE",
+        "correct_answer": "D",
         "explanation": "",
         "reference": ""
     },
@@ -627,7 +627,7 @@
             "D": "Performance",
             "E": "Scalability"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },
@@ -641,7 +641,7 @@
             "D": "Attaching a role to an Amazon EC2 instance",
             "E": "Generating access keys for IAM users"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },

@@ -61,7 +61,7 @@
             "D": "AWS Support API.",
             "E": "Proactive Technical Account Management."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -101,7 +101,7 @@
             "D": "Provides automatic data backups.",
             "E": "Can be scaled manually in a shorter period of time."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -115,7 +115,7 @@
             "D": "For some services, you have to pay a startup fee in order to get the service running.",
             "E": "There are no reservations on AWS, you only pay for what you use."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -181,7 +181,7 @@
             "D": "Placement groups.",
             "E": "Compute time consumed."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -195,7 +195,7 @@
             "D": "A role is uniquely associated with only one person, however an IAM user is intended to be assumable by anyone who needs it.",
             "E": "An IAM user has temporary credentials associated with it, however a role has permanent credentials associated with it."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, B",
         "explanation": "",
         "reference": ""
     },
@@ -209,7 +209,7 @@
             "D": "Changing the type of the volume.",
             "E": "Distributing requests to multiple volumes."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, D",
         "explanation": "",
         "reference": ""
     },
@@ -301,7 +301,7 @@
             "D": "Standard.",
             "E": "Business."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -315,7 +315,7 @@
             "D": "AWS account root user.",
             "E": "TAM."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },
@@ -368,7 +368,7 @@
             "D": "Provides flexible pricing options that suit most customer needs.",
             "E": "Provides software solutions that run on AWS or any other Cloud vendor."
         },
-        "correct_answer": "D",
+        "correct_answer": "D, E",
         "explanation": "",
         "reference": ""
     },
@@ -434,7 +434,7 @@
             "D": "Rotate all access keys.",
             "E": "Change the email address and password of the root user account and enable MFA."
         },
-        "correct_answer": "D",
+        "correct_answer": "D, E",
         "explanation": "",
         "reference": ""
     },
@@ -448,7 +448,7 @@
             "D": "Provide a Chef-compatible cache to speed up application response.",
             "E": "Distribute requests to multiple instances."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -462,7 +462,7 @@
             "D": "Use Elastic Load Balancing.",
             "E": "Use Serverless Computing whenever possible."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -476,7 +476,7 @@
             "D": "They only require 1-2 days for setup and configuration.",
             "E": "You can increase or decrease your compute capacity depending on the demands of your application."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -516,7 +516,7 @@
             "D": "Configure the underlying infrastructure of AWS services to meet all PCI DSS requirements.",
             "E": "Ensure that all PCI DSS physical security requirements are met."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -660,7 +660,7 @@
             "D": "Pay-as-you-go pricing.",
             "E": "Reliability."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, D",
         "explanation": "",
         "reference": ""
     }

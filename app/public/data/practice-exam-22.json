@@ -35,7 +35,7 @@
             "D": "Reserved Instances for sustained workloads",
             "E": "Spend limits set using AWS Budgets"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },
@@ -166,7 +166,7 @@
             "D": "Transit gateway",
             "E": "Virtual private gateway"
         },
-        "correct_answer": "CE",
+        "correct_answer": "C",
         "explanation": "",
         "reference": ""
     },
@@ -258,7 +258,7 @@
             "D": "Amazon DynamoDB",
             "E": "Amazon Redshift"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },
@@ -272,7 +272,7 @@
             "D": "Amazon Connect",
             "E": "Amazon Route 53"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },
@@ -324,7 +324,7 @@
             "C": "Run on two Availability Zones in one AWS Region, using a local AWS Region for the disaster recovery site.",
             "D": "Run across two AWS Regions, using a third AWS Region for the disaster recovery site."
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/blogs/startups/large-scale-disaster-recovery-using-aws-regions/>\n\n    Option D increased complexity and cost.",
         "reference": ""
     },
@@ -364,7 +364,7 @@
             "D": "Using AWS Trusted Advisor",
             "E": "Using Consolidated Billing"
         },
-        "correct_answer": "AB",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },
@@ -521,7 +521,7 @@
             "D": "Software patching",
             "E": "Extract, transform, and load (ETL) management"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html>",
         "reference": ""
     },
@@ -613,7 +613,7 @@
             "D": "Improving security by proactively monitoring the AWS environment",
             "E": "Implementing enforced tagging across AWS resources"
         },
-        "correct_answer": "CD",
+        "correct_answer": "C",
         "explanation": "<https://aws.amazon.com/about-aws/whats-new/2016/06/aws-support-enables-tagging-capabilities-for-trusted-advisor/>",
         "reference": ""
     },
@@ -627,7 +627,7 @@
             "D": "Configure a password policy that ensures the developer's password cannot be changed.",
             "E": "Ensure the account password policy requires a minimum length."
         },
-        "correct_answer": "AE",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },

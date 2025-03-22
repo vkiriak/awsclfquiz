@@ -35,7 +35,7 @@
             "D": "Encryption usage",
             "E": "High availability"
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "<https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf>",
         "reference": ""
     },
@@ -88,7 +88,7 @@
             "D": "Connect the company's on-premises data center to AWS using AWS Direct Connect.",
             "E": "Leverage Amazon CloudFront to restrict access to static web content provided through the company's on-premises web servers."
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/blogs/apn/amazon-vpc-for-on-premises-network-engineers-part-one/>",
         "reference": ""
     },
@@ -193,7 +193,7 @@
             "D": "AWS can easily accommodate application demand changes.",
             "E": "AWS takes care application security patching."
         },
-        "correct_answer": "CD",
+        "correct_answer": "C",
         "explanation": "",
         "reference": ""
     },
@@ -259,7 +259,7 @@
             "D": "Increased agility.",
             "E": "AWS holds responsibility for security in the cloud."
         },
-        "correct_answer": "CD",
+        "correct_answer": "C",
         "explanation": "",
         "reference": ""
     },
@@ -377,7 +377,7 @@
             "D": "By the programming language that is used for the Lambda function.",
             "E": "By the total number of Lambda functions in an AWS account."
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/lambda/pricing/>",
         "reference": ""
     },
@@ -391,7 +391,7 @@
             "D": "There are more AWS Regions than edge locations.",
             "E": "There are more Availability Zones than AWS Regions."
         },
-        "correct_answer": "BE",
+        "correct_answer": "B",
         "explanation": "",
         "reference": ""
     },
@@ -431,7 +431,7 @@
             "D": "Purchase AWS security and compliance documents.",
             "E": "Order AWS Snowball."
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/marketplace>",
         "reference": ""
     },
@@ -497,7 +497,7 @@
             "D": "Increased upfront capital expenditure",
             "E": "Physical access to cloud data centers"
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "<https://data-flair.training/blogs/aws-advantages/>",
         "reference": ""
     },
@@ -511,7 +511,7 @@
             "D": "The costs of third-party penetration testing.",
             "E": "The advertising costs associated with an ongoing enterprise-wide campaign."
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/tco-calculator/>",
         "reference": ""
     },

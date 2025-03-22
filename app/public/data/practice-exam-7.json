@@ -9,7 +9,7 @@
             "D": "Encrypt the data prior to uploading it.",
             "E": "Delete all IAM users that have access to S3."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, D",
         "explanation": "",
         "reference": ""
     },
@@ -36,7 +36,7 @@
             "D": "Creating and deleting S3 buckets.",
             "E": "The total size in gigabytes of all objects stored."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -50,7 +50,7 @@
             "D": "Stores archived data at very low costs.",
             "E": "Delivers content to end users with low latency."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -90,7 +90,7 @@
             "D": "Spot.",
             "E": "Standard."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -156,7 +156,7 @@
             "D": "Amazon ECS.",
             "E": "Amazon EMR."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -274,7 +274,7 @@
             "D": "AWS CodeCommit.",
             "E": "CloudHSM."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -327,7 +327,7 @@
             "D": "Disposable resources instead of fixed servers.",
             "E": "Multi-AZ deployments instead of multi-region deployments."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },
@@ -380,7 +380,7 @@
             "D": "Amazon Route 53.",
             "E": "AWS VPN."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -394,7 +394,7 @@
             "D": "Instance type.",
             "E": "Storage Class."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, B",
         "explanation": "",
         "reference": ""
     },
@@ -421,7 +421,7 @@
             "D": "AWS Security Blog.",
             "E": "AWS Classroom Training."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -526,7 +526,7 @@
             "D": "Help organization achieve their desired business outcomes with AWS.",
             "E": "Consolidate billing across multiple AWS accounts."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -605,7 +605,7 @@
             "D": "Environmental controls.",
             "E": "Resource Configuration Management."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, D",
         "explanation": "",
         "reference": ""
     },
@@ -632,7 +632,7 @@
             "D": "Reduce the size of media assets using the Amazon Elastic Transcoder.",
             "E": "Store media assets in S3 and use CloudFront to distribute these assets."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -646,7 +646,7 @@
             "D": "Enable real-time traceability.",
             "E": "Never store sensitive data in the cloud."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },

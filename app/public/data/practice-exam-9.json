@@ -73,7 +73,7 @@
             "C": "API Gateway.",
             "D": "Amazon Direct Connect."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -152,7 +152,7 @@
             "D": "Encryption usage.",
             "E": "High availability."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -179,7 +179,7 @@
             "D": "Rely on individual components.",
             "E": "Design for scalability."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -258,7 +258,7 @@
             "D": "Performance.",
             "E": "Storage Capacity."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -285,7 +285,7 @@
             "D": "Configuring Network Access Control Lists (ACL).",
             "E": "Maintaining environmental controls within a data center."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },
@@ -351,7 +351,7 @@
             "D": "Amazon CloudFront.",
             "E": "AWS Direct Connect."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -404,7 +404,7 @@
             "D": "AWS Organizations.",
             "E": "Network ACLs."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -457,7 +457,7 @@
             "D": "Deferred payment plans for startups.",
             "E": "Business credit lines for startups."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -484,7 +484,7 @@
             "D": "Amazon Comprehend allows users to build applications that can respond to user requests in many languages.",
             "E": "Elastic Load Balancing can distribute application web traffic to multiple AWS Regions around the world which reduces latency."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -498,7 +498,7 @@
             "D": "Regions.",
             "E": "Amazon Machine Images (AMIS)."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },
@@ -564,7 +564,7 @@
             "D": "Auto Scaling.",
             "E": "Amazon CloudWatch default metrics."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, B",
         "explanation": "",
         "reference": ""
     },
@@ -617,7 +617,7 @@
             "D": "Amazon CloudFront.",
             "E": "Amazon DynamoDB."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },

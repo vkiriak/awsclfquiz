@@ -81,13 +81,20 @@ export default function QuizPage() {
   };
 
   const submitQuiz = () => {
-    const results: QuizResult[] = questions.map(q => ({
-      questionNumber: q.number,
-      questionOptions: q.options,
-      userAnswer: (answers[q.number] || []).join(', ') || 'Not answered',
-      correctAnswer: q.correctAnswer,
-      isCorrect: answers[q.number]?.length === 1 && answers[q.number][0] === q.correctAnswer
-    }));
+    const results: QuizResult[] = questions.map(q => {
+      const userAnswerArray = answers[q.number] || [];
+      const correctAnswerArray = q.correctAnswer.split(',').map(a => a.trim());
+      const userAnswerNormalized = userAnswerArray.map(a => a.trim()).sort().join(',');
+      const correctAnswerNormalized = correctAnswerArray.sort().join(',');
+  
+      return {
+        questionNumber: q.number,
+        questionOptions: q.options,
+        userAnswer: userAnswerArray.length ? userAnswerArray.join(', ') : 'Not answered',
+        correctAnswer: q.correctAnswer,
+        isCorrect: userAnswerNormalized === correctAnswerNormalized
+      };
+    });
     setResults(results);
     setIsQuizComplete(true);
   };

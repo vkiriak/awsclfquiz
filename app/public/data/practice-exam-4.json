@@ -9,7 +9,7 @@
             "D": "AWS Identity & Access Management.",
             "E": "AWS Data Pipeline."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, B",
         "explanation": "",
         "reference": ""
     },
@@ -23,7 +23,7 @@
             "D": "Amazon EMR.",
             "E": "Amazon EBS."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -37,7 +37,7 @@
             "D": "Operating system maintenance.",
             "E": "Data management."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, D",
         "explanation": "",
         "reference": ""
     },
@@ -142,7 +142,7 @@
             "D": "Eliminates the need to encrypt data.",
             "E": "Allows developers to control all patching related activities."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -156,7 +156,7 @@
             "D": "A media store for the CloudFront service.",
             "E": "Processing data streams at any scale."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -261,7 +261,7 @@
             "D": "Operating system maintenance.",
             "E": "Creating access policies."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, D",
         "explanation": "",
         "reference": ""
     },
@@ -327,7 +327,7 @@
             "D": "The nature of the queries.",
             "E": "Software bugs."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, D",
         "explanation": "",
         "reference": ""
     },
@@ -341,7 +341,7 @@
             "D": "Quickly identify deleted resources and their metadata.",
             "E": "Track AWS spending across multiple resources."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -368,7 +368,7 @@
             "D": "Use serverless architectures.",
             "E": "Enable audit logging."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -382,7 +382,7 @@
             "D": "Maintaining consistent hardware components.",
             "E": "Installing and configuring third-party software."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -396,7 +396,7 @@
             "D": "On-site visits for auditing.",
             "E": "Cost Savings."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -410,7 +410,7 @@
             "D": "Amazon ECS.",
             "E": "AWS Config."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -502,7 +502,7 @@
             "D": "AWS removes the need to invest in operational expenditure.",
             "E": "Using AWS allows companies to replace large capital expenditure with low variable costs."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -516,7 +516,7 @@
             "D": "Offers extremely low (single-digit millisecond) latency.",
             "E": "Supports the most popular NoSQL database engines such as CouchDB and MongoDB."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -530,7 +530,7 @@
             "D": "Decryption.",
             "E": "Conversion."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -544,7 +544,7 @@
             "D": "Amazon Athena.",
             "E": "Amazon PinPoint."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -584,7 +584,7 @@
             "D": "Auditing and regulatory compliance.",
             "E": "Infrastructure security."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -611,7 +611,7 @@
             "D": "AWS DMS.",
             "E": "AWS Management Console."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },

@@ -87,7 +87,7 @@
             "D": "Amazon CloudWatch.",
             "E": "Concierge Support Team."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, B",
         "explanation": "",
         "reference": ""
     },
@@ -179,7 +179,7 @@
             "D": "Penetration testing.",
             "E": "Vertical Scaling."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -206,7 +206,7 @@
             "D": "Ensuring that the underlying EC2 host is configured properly.",
             "E": "Patching applications installed on Amazon EC2."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -220,7 +220,7 @@
             "D": "Amazon EC2.",
             "E": "AWS Lambda."
         },
-        "correct_answer": "D",
+        "correct_answer": "D, E",
         "explanation": "",
         "reference": ""
     },
@@ -312,7 +312,7 @@
             "D": "Automate wherever possible.",
             "E": "Remove single points of failure."
         },
-        "correct_answer": "D",
+        "correct_answer": "D, E",
         "explanation": "",
         "reference": ""
     },
@@ -378,7 +378,7 @@
             "D": "Configuring Access Control Lists (ACLs).",
             "E": "Hardware maintenance."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -431,7 +431,7 @@
             "D": "Virtualized compute resources.",
             "E": "Dedicated hosting."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -445,7 +445,7 @@
             "D": "Hardware patching.",
             "E": "Securing global physical infrastructure."
         },
-        "correct_answer": "D",
+        "correct_answer": "D, E",
         "explanation": "",
         "reference": ""
     },
@@ -485,7 +485,7 @@
             "D": "AWS X-Ray.",
             "E": "AWS Config."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, E",
         "explanation": "",
         "reference": ""
     },
@@ -538,7 +538,7 @@
             "D": "CloudFormation.",
             "E": "Network ACLs."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C",
         "explanation": "",
         "reference": ""
     },
@@ -591,7 +591,7 @@
             "D": "AWS Glue.",
             "E": "Amazon CloudFront."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -605,7 +605,7 @@
             "D": "Patching the database software.",
             "E": "Installing the database software."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },

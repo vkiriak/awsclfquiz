@@ -74,7 +74,7 @@
             "D": "Amazon Redshift",
             "E": "Amazon S3"
         },
-        "correct_answer": "AB",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/sql/>",
         "reference": ""
     },
@@ -114,7 +114,7 @@
             "D": "Pay-as-you-go pricing",
             "E": "Reliability"
         },
-        "correct_answer": "CD",
+        "correct_answer": "C",
         "explanation": "",
         "reference": ""
     },
@@ -141,7 +141,7 @@
             "D": "A network file system",
             "E": "A durable storage system"
         },
-        "correct_answer": "BE",
+        "correct_answer": "B",
         "explanation": "",
         "reference": ""
     },
@@ -155,7 +155,7 @@
             "D": "Auto Scaling",
             "E": "Amazon CloudWatch default metrics"
         },
-        "correct_answer": "AB",
+        "correct_answer": "A",
         "explanation": "- <https://aws.amazon.com/cloudwatch/>\n    - You can also use CloudWatch in hybrid cloud architectures by using the CloudWatch Agent or API to monitor your on-premises resources",
         "reference": ""
     },
@@ -208,7 +208,7 @@
             "D": "AWS Total Cost of Ownership (TCO) Calculator",
             "E": "Cost Eliminator"
         },
-        "correct_answer": "BCD",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/>",
         "reference": ""
     },
@@ -222,7 +222,7 @@
             "D": "Potential volume discounts, as usage in all accounts is combined",
             "E": "The automatic extension of the master account's AWS support plan to all accounts"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "<https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html>",
         "reference": ""
     },
@@ -353,7 +353,7 @@
             "D": "Configuring Network Access Control Lists (ACL)",
             "E": "Maintaining environmental controls within a data center"
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/compliance/shared-responsibility-model/>",
         "reference": ""
     },
@@ -393,7 +393,7 @@
             "D": "Using Multi-Factor Authentication (MFA)",
             "E": "Enforcing password strength and expiration"
         },
-        "correct_answer": "DE",
+        "correct_answer": "D",
         "explanation": "",
         "reference": ""
     },
@@ -407,7 +407,7 @@
             "D": "Amazon Redshift",
             "E": "Amazon EFS"
         },
-        "correct_answer": "BE",
+        "correct_answer": "B",
         "explanation": "",
         "reference": ""
     },
@@ -629,7 +629,7 @@
             "D": "Real-time monitoring",
             "E": "Adjustable retention"
         },
-        "correct_answer": "DE",
+        "correct_answer": "D",
         "explanation": "",
         "reference": ""
     },
@@ -656,7 +656,7 @@
             "D": "Cooling costs in hotter climates",
             "E": "Proximity to the customer's office for on-site visits"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     }

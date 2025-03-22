@@ -9,7 +9,7 @@
             "D": "Amazon EC2 Auto Scaling.",
             "E": "AWS Management Console."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -36,7 +36,7 @@
             "D": "Real-time monitoring.",
             "E": "Adjustable retention."
         },
-        "correct_answer": "D",
+        "correct_answer": "D, E",
         "explanation": "",
         "reference": ""
     },
@@ -115,7 +115,7 @@
             "D": "Planned.",
             "E": "Variable cost."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -129,7 +129,7 @@
             "D": "Ensuring that access to data centers is restricted.",
             "E": "Ensuring that hardware is disposed of properly."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -169,7 +169,7 @@
             "D": "Amazon Redshift.",
             "E": "Amazon EFS."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -209,7 +209,7 @@
             "D": "15-minute response time for production system interruption cases.",
             "E": "Annual operational reviews with AWS Solutions Architects."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, C",
         "explanation": "",
         "reference": ""
     },
@@ -275,7 +275,7 @@
             "D": "For fault-tolerant flexible applications.",
             "E": "For sensitive database applications."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, D",
         "explanation": "",
         "reference": ""
     },
@@ -289,7 +289,7 @@
             "D": "AWS Total Cost of Ownership (TCO) Calculator.",
             "E": "Cost Estimator."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, C, D",
         "explanation": "",
         "reference": ""
     },
@@ -368,7 +368,7 @@
             "D": "AWS CloudHSM.",
             "E": "Amazon CloudWatch."
         },
-        "correct_answer": "C",
+        "correct_answer": "C, E",
         "explanation": "",
         "reference": ""
     },
@@ -382,7 +382,7 @@
             "D": "A network file system.",
             "E": "A durable storage system."
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "",
         "reference": ""
     },
@@ -513,7 +513,7 @@
             "D": "Amazon Redshift.",
             "E": "Amazon S3."
         },
-        "correct_answer": "A",
+        "correct_answer": "A, B",
         "explanation": "",
         "reference": ""
     },

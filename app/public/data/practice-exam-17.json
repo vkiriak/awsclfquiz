@@ -139,7 +139,7 @@
             "D": "AWS CloudFormation",
             "E": "AWS Config"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "- EBS -> automates deploying code and provisioning infrastructure\n    - CloudFormation -> Use templates to deploy code and infrastructure",
         "reference": ""
     },
@@ -166,7 +166,7 @@
             "D": "Test for moderate demand to ensure reliability",
             "E": "Backup recovery to an on-premises environment"
         },
-        "correct_answer": "AB",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/>",
         "reference": ""
     },
@@ -180,7 +180,7 @@
             "D": "Delete AWS CloudTrail Resources.",
             "E": "Contact AWS Support."
         },
-        "correct_answer": "AE",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/premiumsupport/knowledge-center/potential-account-compromise/>",
         "reference": ""
     },
@@ -246,7 +246,7 @@
             "D": "Customers can upgrade instances as new types become available.",
             "E": "Customers can reserve capacity in an Availability Zone."
         },
-        "correct_answer": "AE",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-basics/>",
         "reference": ""
     },
@@ -299,7 +299,7 @@
             "D": "Amazon Glacier",
             "E": "AWS Organizations"
         },
-        "correct_answer": "AB",
+        "correct_answer": "A",
         "explanation": "<https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html>",
         "reference": ""
     },
@@ -326,7 +326,7 @@
             "D": "AWS Storage Gateway",
             "E": "Amazon Connect"
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/hybrid/>",
         "reference": ""
     },
@@ -353,7 +353,7 @@
             "D": "Amazon RDS",
             "E": "Amazon ElastiCache"
         },
-        "correct_answer": "A",
+        "correct_answer": "A,B",
         "explanation": "<https://www.edureka.co/community/600/what-is-an-edge-location-in-aws>",
         "reference": ""
     },
@@ -393,7 +393,7 @@
             "D": "AWS Marketplace eliminates the need to upgrade to newer software versions.",
             "E": "Users can deploy third-party software without testing."
         },
-        "correct_answer": "AB",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/partners/aws-marketplace/>",
         "reference": ""
     },
@@ -420,7 +420,7 @@
             "D": "Physical security of data centers",
             "E": "Configuration of the security group"
         },
-        "correct_answer": "BE",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/compliance/shared-responsibility-model/>",
         "reference": ""
     },
@@ -512,7 +512,7 @@
             "D": "Users have access to free and unlimited storage.",
             "E": "Users have control over the physical infrastructure."
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },
@@ -578,7 +578,7 @@
             "D": "Amazon Comprehend allows users to build applications that can respond to user requests in many languages.",
             "E": "Elastic Load Balancing can distribute application web traffic to multiple AWS Regions around the world, which reduces latency."
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "- <https://aws.amazon.com/cloudfront/>",
         "reference": ""
     },

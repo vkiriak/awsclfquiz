@@ -22,7 +22,7 @@
             "D": "AWS Application Discovery Service",
             "E": "Amazon Kinesis"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "<https://d0.awsstatic.com/whitepapers/overview-of-deployment-options-on-aws.pdf>",
         "reference": ""
     },
@@ -205,7 +205,7 @@
             "D": "AWS Support Center",
             "E": "AWS Service Health Dashboard"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "<https://aws.amazon.com/shield/>",
         "reference": ""
     },
@@ -232,7 +232,7 @@
             "D": "Create an IAM policy with administrator access and attach it to the IAM user.",
             "E": "Create an IAM policy with Amazon RDS access and attach it to the IAM user."
         },
-        "correct_answer": "BE",
+        "correct_answer": "B",
         "explanation": "",
         "reference": ""
     },
@@ -259,7 +259,7 @@
             "D": "Increasing the availability of the application",
             "E": "Increasing the load of the application"
         },
-        "correct_answer": "AD",
+        "correct_answer": "A",
         "explanation": "<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-increase-availability.html>",
         "reference": ""
     },
@@ -377,7 +377,7 @@
             "D": "Amazon Cognito",
             "E": "AWS Lambda"
         },
-        "correct_answer": "AE",
+        "correct_answer": "A",
         "explanation": "<https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html>",
         "reference": ""
     },
@@ -443,7 +443,7 @@
             "D": "Adopting a consumption model",
             "E": "Automatically recovering from failure"
         },
-        "correct_answer": "CE",
+        "correct_answer": "C",
         "explanation": "<https://wa.aws.amazon.com/wat.pillar.reliability.en.html>",
         "reference": ""
     },
@@ -457,7 +457,7 @@
             "D": "Amazon CloudFront",
             "E": "AWS Lambda"
         },
-        "correct_answer": "BD",
+        "correct_answer": "B",
         "explanation": "<https://aws.amazon.com/cloudfront/faqs/>",
         "reference": ""
     },
@@ -549,7 +549,7 @@
             "D": "Installment payment options",
             "E": "Custom cost and usage budget creation"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "<https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html>",
         "reference": ""
     },

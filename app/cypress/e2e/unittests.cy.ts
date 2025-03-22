@@ -24,10 +24,12 @@ describe('app exams page', () => {
 })
 
 describe('evaluate loading of exam 1 question', () => {
-  it('it should load all question for exam 1 json ', () => {
+  it('it should load all questions for exam 1 json ', () => {
     cy.request('http://localhost:3000/api/questions/json/practice-test-0').then((response) => {
       expect(response.status).to.eq(200);
-      expect(response.body).to.have.length(1);
+      expect(response.body).to.be.an('array').and.to.have.length(2);
+      expect(response.body[0].correctAnswer).to.eq('D');
+      expect(response.body[1].correctAnswer).to.eq('B, E');
     })
   })
 })

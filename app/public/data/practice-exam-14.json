@@ -87,7 +87,7 @@
             "D": "Software-as-a-service",
             "E": "Hybrid"
         },
-        "correct_answer": "AC",
+        "correct_answer": "A",
         "explanation": "",
         "reference": ""
     },
@@ -114,7 +114,7 @@
             "D": "Amazon Glacier",
             "E": "Amazon CloudFront"
         },
-        "correct_answer": "BE",
+        "correct_answer": "B",
         "explanation": "- <https://aws.amazon.com/getting-started/tutorials/deliver-content-faster/>\n    - <https://aws.amazon.com/cloudfront/>",
         "reference": ""
     },
@@ -180,7 +180,7 @@
             "D": "Automated penetration testing",
             "E": "Amazon S3 copyrighted content detection"
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "- Penetration testing is not correct, because it can be done by customers on their own resources.",
         "reference": ""
     },
@@ -350,7 +350,7 @@
             "D": "AWS Batch",
             "E": "AWS X-Ray"
         },
-        "correct_answer": "BC",
+        "correct_answer": "B",
         "explanation": "- <https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-on-premises.html>\n    - <https://aws.amazon.com/blogs/aws/opsworks-on-prem-and-existing-instances/>",
         "reference": ""
     },
@@ -377,7 +377,7 @@
             "D": "Rely on individual components.",
             "E": "Design for scalability."
         },
-        "correct_answer": "CE",
+        "correct_answer": "C",
         "explanation": "",
         "reference": ""
     },
@@ -495,7 +495,7 @@
             "D": "Amazon EC2 Auto Scaling",
             "E": "AWS Management Console"
         },
-        "correct_answer": "BE",
+        "correct_answer": "B",
         "explanation": "",
         "reference": ""
     },
@@ -522,7 +522,7 @@
             "D": "Enable Amazon CloudFront.",
             "E": "Activate multi-factor authentication (MFA) for privileged users."
         },
-        "correct_answer": "BE",
+        "correct_answer": "B",
         "explanation": "- If you decided to create service accounts (that is, accounts used for programmatic access by applications running outside of the AWS environment) and generate access keys for them, you should create a dedicated service account for each use case.\n    - This will allow you to restrict the associated policy to only the permissions needed for the particular use case, limiting the blast radius if the credentials are compromised.\n    - For example, if a monitoring tool and a release management tool both require access to your AWS environment, create two separate service accounts with two separate policies that define the minimum set of permissions for each tool.",
         "reference": "https://aws.amazon.com/blogs/security/guidelines-for-protecting-your-aws-account-while-using-programmatic-access/"
     },
@@ -627,7 +627,7 @@
             "D": "AWS Forums",
             "E": "AWS Classroom Training"
         },
-        "correct_answer": "B",
+        "correct_answer": "B, E",
         "explanation": "- AWS Training and Certification builds your competence, confidence, and credibility through practical cloud skills that help you innovate and build your future.\n    - Our content is built by experts at AWS and updated regularly so you're always learning the latest and keeping your cloud skills fresh.\n    - Amazon offer both digital and classroom training including private on-site training. You can choose to learn online at your own pace or learn from an accredited AWS instructor.\n    - Whether you're just starting out, building on existing IT skills, or sharpening your cloud knowledge, AWS Training and Certification can help you be more effective and do more in the cloud.",
         "reference": "https://aws.amazon.com/training/course-descriptions/"
     },
@@ -641,7 +641,7 @@
             "D": "Subnets",
             "E": "Elastic Load Balancing"
         },
-        "correct_answer": "CD",
+        "correct_answer": "C",
         "explanation": "- Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.\n    - You have complete control over your virtual networking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways.\n    - You can use both IPv4 and IPv6 in your VPC for secure and easy access to resources and applications.\n    - You can easily customize the network configuration for your Amazon VPC.\n    - For example, you can create a public-facing subnet for your web servers that has access to the Internet, and place your backend systems such as databases or application servers in a private-facing subnet with no Internet access.\n    - You can leverage multiple layers of security, including security groups and network access control lists, to help control access to Amazon EC2 instances in each subnet.",
         "reference": "https://aws.amazon.com/vpc/"
     },
