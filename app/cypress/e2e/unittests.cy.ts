@@ -6,10 +6,54 @@ describe('app home page', () => {
 })
 
 
-describe('load question page', () => {
+describe('100% pass quiz test', () => {
   it('passes', () => {
+    /* Load the test quiz questions */
     cy.visit('http://localhost:3000/quiz/practice-test-0/')
     cy.get('h1').should('have.text', 'Question 1')
+    
+    /* Question 1 */
+    cy.get('button').eq(3).should('have.text', 'D. AWS Management Console.').click()
+    cy.contains('button', 'Next').click()
+    
+    /* Question 2 */
+    cy.get('button').eq(1).should('have.text', 'B. Automatically provisioning new resources to meet demand.').click()
+    cy.get('button').eq(4).should('have.text', 'E. Ability to recover quickly from failures.').click()
+    cy.contains('button', 'Review').click()
+
+    /* Review */
+    cy.get('h1').should('have.text', 'Review Your Answers')
+    cy.contains('button', 'Submit Quiz').click()
+
+    /* Results */
+    cy.get('h1').should('have.text', 'Quiz Results - practice-test-0')
+    cy.contains('p','Score: 100.00%')
+  })
+})
+
+
+describe('50% pass quiz test', () => {
+  it('passes', () => {
+    /* Load the test quiz questions */
+    cy.visit('http://localhost:3000/quiz/practice-test-0/')
+    cy.get('h1').should('have.text', 'Question 1')
+    
+    /* Question 1 */
+    cy.get('button').eq(3).should('have.text', 'D. AWS Management Console.').click()
+    cy.contains('button', 'Next').click()
+    
+    /* Question 2 */
+    cy.get('button').eq(1).should('have.text', 'B. Automatically provisioning new resources to meet demand.').click()
+    // cy.get('button').eq(4).should('have.text', 'E. Ability to recover quickly from failures.').click()
+    cy.contains('button', 'Review').click()
+
+    /* Review */
+    cy.get('h1').should('have.text', 'Review Your Answers')
+    cy.contains('button', 'Submit Quiz').click()
+
+    /* Results */
+    cy.get('h1').should('have.text', 'Quiz Results - practice-test-0')
+    cy.contains('p','Score: 50.00%')
   })
 })
 
