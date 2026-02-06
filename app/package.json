@@ -4,9 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build",
-    "build:ci": "npm ci && npm run build",
-    "start:prod": "npm ci --omit=dev && npm start",
+    "build": "npm ci && next build && npm ci --omit=dev",
     "start": "next start",
     "lint": "next lint",
     "clean": "rm -rf .next out",
