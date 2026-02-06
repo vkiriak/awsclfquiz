@@ -39,7 +39,7 @@ describe('50% pass quiz test', () => {
     cy.get('h1').should('have.text', 'Question 1')
     
     /* Question 1 */
-    cy.get('button').eq(3).should('have.text', 'D. AWS Management Console.').click()
+    cy.get('button').eq(3).should('have.text', 'Dcd. AWS Management Console.').click()
     cy.contains('button', 'Next').click()
     
     /* Question 2 */
